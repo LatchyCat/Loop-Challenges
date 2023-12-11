@@ -15,21 +15,12 @@ for (let i = 100; i >= 0; i--) {
 
 // 3. Print the sequence
 // Using a loop write code that will console.log the values in this sequence 4, 2.5, 1, -0.5, -2, -3.5.
-let buuIsMyNeko = [4, 2.5, 1, -0.5, -2, -3.5];
-:
+let
 let sequenceM = (arg, pirate) => {
-    let empty = [];
-    for (let i = 0; i < arg.length; i++)
-    /* Edge cases policy #1: Write :lightBulb under the declaration line*/
-    {
-        let loopyLoop = arg[i];
-        if (empty.push(loopyLoop === loopyLoop)) empty.push(loopyLoop)
-    };
-    return empty;
-};
+    for (let i = 0; i < arg.length; i++) {
 
-let percyIsMySecondCat = [4, 6, 0, -3, -12];
-console.log(`${buuIsMyNeko} & ${percyIsMySecondCat} `)
+    }
+};
 
 // 4. Sigma
 // Write code that will add all of the values from 1 - 100 onto some variable sum and at the end console.log the
